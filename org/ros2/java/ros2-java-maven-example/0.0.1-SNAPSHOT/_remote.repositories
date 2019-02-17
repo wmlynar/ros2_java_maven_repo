@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Mar 19 16:54:40 CET 2019
+ros2-java-maven-example-0.0.1-SNAPSHOT.pom>=
+ros2-java-maven-example-0.0.1-SNAPSHOT-jar-with-dependencies.jar>=
+ros2-java-maven-example-0.0.1-SNAPSHOT.jar>=

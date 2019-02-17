@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.ros2.java</groupId>
+  <artifactId>ros2-java-maven</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.20190222-SNAPSHOT</version>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190319155430</lastUpdated>
+  </versioning>
+</metadata>
